@@ -6,7 +6,7 @@
 /*   By: sbouadai <sbouadai@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/11/10 01:29:55 by sbouadai          #+#    #+#             */
-/*   Updated: 2026/11/10 14:49:02 by sbouadai         ###   ########.fr       */
+/*   Updated: 2026/11/15 21:54:10 by sbouadai         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -34,8 +34,8 @@ int	ft_putnbr(int n)
 
 int	ft_putunbr(unsigned int n)
 {
-	int	count;
-	char		c;
+	int		count;
+	char	c;
 
 	count = 0;
 	if (n >= 10)
